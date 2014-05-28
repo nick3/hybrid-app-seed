@@ -1,0 +1,17 @@
+{
+  "name": "hybrid-app-seed",
+  "version": "0.1.0",
+  "authors": [
+    "Nick <imjustanemail@gmail.com>"
+  ],
+  "description": "Hybrid App模板",
+  "main": "www/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

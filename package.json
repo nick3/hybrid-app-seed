@@ -1,0 +1,40 @@
+{
+  "name": "hybrid-app-seed",
+  "version": "0.1.0",
+  "description": "Hybrid App 模板",
+  "main": "www/index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "connect": "*",
+    "connect-livereload": "*",
+    "coffee-script": "~1.7.1",
+    "gulp": "~3.6.2",
+    "gulp-autoprefixer": "*",
+    "gulp-bower-files": "*",
+    "gulp-cache": "*",
+    "gulp-clean": "*",
+    "gulp-csso": "*",
+    "gulp-filter": "*",
+    "gulp-flatten": "*",
+    "gulp-imagemin": "*",
+    "gulp-livereload": "*",
+    "gulp-coffee": "~1.4.3",
+    "gulp-util": "~2.2.14",
+    "gulp-ngmin": "*",
+    "gulp-jade": "*",
+    "gulp-ruby-sass": "*",
+    "gulp-size": "*",
+    "gulp-useref": "*",
+    "opn": "*",
+    "streamqueue": "*",
+    "wiredep": "*",
+    "gulp-coffeelint": "*",
+    "bower": "~1.3.3",
+    "gulp-load-plugins": "~0.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick",
+  "license": "BSD-2-Clause"
+}
