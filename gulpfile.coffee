@@ -38,7 +38,7 @@ gulp.task 'html', ['styles', 'scripts'], ->
 
 gulp.task 'jade', ->
   gulp.src 'src/views/**/*.jade'
-    .pipe jade()
+    .pipe $.jade()
     .pipe gulp.dest 'www/views'
     .pipe $.size()
 

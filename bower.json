@@ -13,5 +13,14 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angularjs": "*",
+    "ratchet2": "*",
+    "iscroll": "*",
+    "ng-iScroll": "*",
+    "angular-resource": "*",
+    "fastclick": "*",
+    "angular-ui-router": "~0.2.10"
+  }
 }
