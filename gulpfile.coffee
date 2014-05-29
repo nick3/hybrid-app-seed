@@ -15,6 +15,7 @@ gulp.task 'scripts', ->
     .pipe $.coffeelint()
     .pipe $.coffeelint.reporter()
     .pipe $.coffee()
+    .pipe $.ngmin { dynamic: true }
     .pipe gulp.dest '.tmp/scripts'
     .pipe $.size()
 

@@ -35,6 +35,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nick",
-  "license": "BSD-2-Clause"
+  "author": "Nick Liu"
 }
